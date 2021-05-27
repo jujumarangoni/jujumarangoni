@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jujumarangoni
+- 👀 I’m interested in marketing and business strategy
+- 🌱 I’m currently learning the basics of Python
